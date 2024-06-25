@@ -10,23 +10,6 @@
 - Order history tracking
 - Multiple payment methods
 
-## Installation
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/order-management-system.git
-    cd order-management-system
-    ```
-
-2. Install dependencies (if applicable):
-
-    ```bash
-    npm install
-    ```
-
-3. Open `index.html` in your web browser to view the application.
-
 ## Usage
 
 1. **Home Page**: View the main dashboard with an overview of the system.
@@ -34,6 +17,13 @@
 3. **Menu**: Browse available products and add them to the shopping cart.
 4. **Order**: Place orders and choose payment methods.
 5. **FAQ**: Get answers to common questions about the system.
+
+## Backend
+
+1. Simplified backment Management.
+2. Information about orders and login user's.Tracking of orders
+3. Tracking of orders.
+4. Live tracking of status of orders.
 
 ## Technologies Used
 
@@ -43,4 +33,10 @@
 - php
 - sql
 
-© 2023 Avanti Joshi. All rights reserved.
+## Contact
+
+- **Author**: Avanti Joshi
+- **Email**: 57avantijoshi@gmail.com
+
+Feel free to reach out for any questions or suggestions.
+
