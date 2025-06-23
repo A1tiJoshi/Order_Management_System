@@ -70,9 +70,4 @@
 6. **Configuration**:
    - Update the database configuration in the PHP files to match your database setup.
 
-## Contact
 
-- **Author**: Avanti Joshi
-- **Email**: 57avantijoshi@gmail.com
-
-Feel free to reach out for any questions or suggestions.
